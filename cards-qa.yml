@@ -1,0 +1,11 @@
+build:
+  version: "2.3"
+
+cards:
+  message: "Welcome to cards related QA APIs "
+  contactDetails:
+    name: "Rajeev - Tester"
+    email: "rajusigh48658@gmail.com"
+  onCallSupport:
+    - +91-9560309951
+    - +91-7800183401
