@@ -2,10 +2,11 @@ build:
   version: "3.3"
 
 loans:
-  message: "Welcome to loans related QA APIs "
+  message: "Welcome to loans related QA API "
   contactDetails:
     name: "Rajeev - Tester"
     email: "rajusigh48658@gmail.com"
   onCallSupport:
     - +91-9560309951
+
     - +91-7800183401
