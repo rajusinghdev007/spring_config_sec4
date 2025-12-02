@@ -2,7 +2,7 @@ build:
   version: "1.2"
 
 accounts:
-  message: "Welcome to accounts-related production APIs "
+  message: "Welcome to accounts-related prod APIs "
   contactDetails:
     name: "Rajeev - Developer"
     email: "{cipher}779bc8fa43ee997a579f8c1373eb5579c48068f852f36e7f69829d5baf2c7ad1394676618a966a9105ad7b765116bf7d"
@@ -10,4 +10,5 @@ accounts:
     - +91-9560309951
 
     - +91-7800183401
+
 
